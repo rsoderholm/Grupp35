@@ -10,4 +10,6 @@ The hero is victorious!
 
 Everyone goes to the tavern and drinks ale. There are dwarves.
 
+Noobs..
+
 The End.

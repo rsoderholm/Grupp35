@@ -1,4 +1,4 @@
-20
+﻿20
 50
 files/new1.jpg
 files/new2.jpg
@@ -10,3 +10,20 @@ files/new7.jpg
 files/new8.jpg
 files/new9.jpg
 files/new10.jpg
+
+// hej! jhagsdkjhgsdf
+
+sds
+xax
+hej
+=======
+
+
+hej
+
+nu ändrar vi här igen
+
+
+=======
+>>>>>>> 88dbc50e8abf7e8da465df8851aa2e69993741d7
+>>>>>>> origin/master
