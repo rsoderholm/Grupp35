@@ -1,4 +1,4 @@
-20
+﻿20
 50
 files/new1.jpg
 files/new2.jpg
@@ -10,6 +10,9 @@ files/new7.jpg
 files/new8.jpg
 files/new9.jpg
 files/new10.jpg
+
+// hej!
+
 <<<<<<< HEAD
 sds
 xax
