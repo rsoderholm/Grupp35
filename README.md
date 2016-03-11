@@ -12,6 +12,4 @@ Everyone goes to the tavern and drinks ale. There are dwarves.
 
 Noobs..
 
-Kassa är ni
-
 The End.
