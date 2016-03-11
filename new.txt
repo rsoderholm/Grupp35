@@ -10,10 +10,18 @@ files/new7.jpg
 files/new8.jpg
 files/new9.jpg
 files/new10.jpg
+<<<<<<< HEAD
+sds
+xax
+hej
+=======
 
 
 hej
 
 nu ändrar vi här igen
 
-en till
+
+=======
+>>>>>>> 88dbc50e8abf7e8da465df8851aa2e69993741d7
+>>>>>>> origin/master
