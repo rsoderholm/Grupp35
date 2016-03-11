@@ -11,9 +11,8 @@ files/new8.jpg
 files/new9.jpg
 files/new10.jpg
 
-// hej! sajhfdölksajhfdsa
+// hej! jhagsdkjhgsdf
 
-<<<<<<< HEAD
 sds
 xax
 hej
